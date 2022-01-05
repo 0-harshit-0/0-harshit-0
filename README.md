@@ -1,6 +1,7 @@
 # 0-harshit-0
 <h1>hello</h1>
-h1 {
+<style>
+    h1 {
   color: red;
   animation: myanimation 2s infinite;
 }
@@ -13,6 +14,7 @@ h1 {
     color: yellow;
   }
 }
+</style>
 a pendulum ray trace at the top
 skills using svg on scroll offset reveal   <|
 experience  images with pix manupilation      <|
