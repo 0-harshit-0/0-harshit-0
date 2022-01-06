@@ -9,7 +9,11 @@ Welcome to my Github profile. I'm a _front-end web developer_ and a _part-time f
 :diamond_shape_with_a_dot_inside: Web animation using Canvas API and ThreeJS
 
 **You can reach me on:**<br />
-![linkedin](https://user-images.githubusercontent.com/59227793/148357900-be1333b4-7b55-4301-b3b0-bddf76d3741a.png)
-![github](https://user-images.githubusercontent.com/59227793/148358438-acc15f9d-ae49-4268-aa6f-1336f887c857.png)
+![icons8-linkedin-32 (1)](https://user-images.githubusercontent.com/59227793/148360670-312d34e3-89e0-4965-9020-14c69105661c.png)
+![icons8-github-32](https://user-images.githubusercontent.com/59227793/148360567-a68b01c5-2d0c-4bb6-9109-067174f5caac.png)
+![icons8-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-28](https://user-images.githubusercontent.com/59227793/148360800-cd3902ba-3e57-4803-8e20-3ff21148a21f.png)
 
+
+
+<a target="_blank" href="https://icons8.com/icon/HKdmFbFm7xQV/upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely">Upwork a global freelancing platform where professionals connect and collaborate remotely</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
