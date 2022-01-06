@@ -1,4 +1,4 @@
-**hey there :love_you_gesture:<br>**
+### hey there :love_you_gesture:
 Welcome to my Github profile. I'm a _front-end web developer_ and a _part-time freelancer_.
 
 <hr />
