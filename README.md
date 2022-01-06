@@ -31,6 +31,7 @@ Welcome to my Github profile. I'm a _front-end web developer_ and a _part-time f
 <details>
   <summary>Projects</summary>
   
+  :card_index_dividers: [Canvas Utility](https://github.com/0-harshit-0/Utility-HTML5Canvas) JavaScript library that helps creating art and animations using HTML5 Canvas API easier.<br />
   :performing_arts: [Cryptic](https://0-harshit-0.github.io/Steganography/) is an _image steganography_ tool for encoding and decoding text in an Image.<br />
   :space_invader: [SpaceWars](https://spacewars.glitch.me/) is an online, free-to-play<!--, multiplayer--> game. It is created using HTML, CSS, JS.<!--, Node, Express, and Socket.io.-->
 </details>
