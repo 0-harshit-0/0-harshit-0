@@ -23,5 +23,17 @@ Welcome to my Github profile. I'm a _front-end web developer_ and a _part-time f
   <img src='https://img.shields.io/badge/-Php-rgb(133, 142, 187)?style=for-the-badge' />
 </details>
 
+<details>
+  <summary>Experience</summary>
+  :briefcase: I'm a part time freelancer on upwork.
+</details>
+
+<details>
+  <summary>Projects</summary>
+  
+  :performing_arts: [Cryptic](https://0-harshit-0.github.io/Steganography/) is an _image steganography_ tool for encoding and decoding text in an Image.<br />
+  :space_invader: [SpaceWars](https://spacewars.glitch.me/) is an online, free-to-play<!--, multiplayer--> game. It is created using HTML, CSS, JS.<!--, Node, Express, and Socket.io.-->
+</details>
+
 <a target="_blank" href="https://icons8.com/icon/HKdmFbFm7xQV/upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely">Upwork a global freelancing platform where professionals connect and collaborate remotely</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
