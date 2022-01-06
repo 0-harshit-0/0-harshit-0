@@ -16,6 +16,11 @@ Welcome to my Github profile. I'm a _front-end web developer_ and a _part-time f
 <details>
   <summary>Skills</summary>
   <img src='https://img.shields.io/badge/-HTML-orange?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/-CSS-blue?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/-JS-yellow?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/-NodeJS-lightBlue?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/-Express-rgb(0, 0, 100)?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/-Php-rgb(133, 142, 187)?style=for-the-badge' />
 </details>
 
 <a target="_blank" href="https://icons8.com/icon/HKdmFbFm7xQV/upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely">Upwork a global freelancing platform where professionals connect and collaborate remotely</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
