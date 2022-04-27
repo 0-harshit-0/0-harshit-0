@@ -36,8 +36,8 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
   
   <summary>Tools</summary>
   
-  ![figma-logo-E4E21D3AEA-seeklogo com](https://user-images.githubusercontent.com/59227793/165592368-6bcd46fd-e474-4e2f-b58d-9721db66ad0f.png) [Figma](https://www.figma.com/) <br />
-  :performing_arts: [Retool](https://retool.com/) <br />
+  [![image](https://user-images.githubusercontent.com/59227793/165592749-b4567c70-44a4-44c8-b911-d303f069cf44.png)](https://www.figma.com/) <br />
+   [Retool](https://retool.com/) <br />
   :world_map: [Airtable](https://www.airtable.com/) <br />
   :space_invader: [Slack](https://slack.com/)
   
