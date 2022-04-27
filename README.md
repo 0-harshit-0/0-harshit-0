@@ -25,7 +25,7 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
   <img src='https://img.shields.io/badge/-CSS-blue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-JS-yellow?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-ReactJS-rgb(0,200,200)?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-Python-#cca834?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/-Python-rgb(204,168,52)?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-NodeJS-lightBlue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-Express-rgb(0, 0, 100)?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-Php-rgb(133, 142, 187)?style=for-the-badge' />
@@ -33,11 +33,14 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
 </details>
 
 <details>
+  
   <summary>Tools</summary>
-  :card_index_dividers: [Figma](https://www.figma.com/)<br />
-  :performing_arts: [Retool](https://retool.com/)<br />
-  :world_map: [Airtable](https://www.airtable.com/)<br />
+  
+  :card_index_dividers: [Figma](https://www.figma.com/) <br />
+  :performing_arts: [Retool](https://retool.com/) <br />
+  :world_map: [Airtable](https://www.airtable.com/) <br />
   :space_invader: [Slack](https://slack.com/)
+  
 </details>
 
 <details>
