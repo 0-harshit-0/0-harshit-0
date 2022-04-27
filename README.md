@@ -36,10 +36,10 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
   
   <summary>Tools</summary>
   
-  [![image](https://user-images.githubusercontent.com/59227793/165592749-b4567c70-44a4-44c8-b911-d303f069cf44.png)](https://www.figma.com/) <br />
-   [Retool](https://retool.com/) <br />
-  :world_map: [Airtable](https://www.airtable.com/) <br />
-  :space_invader: [Slack](https://slack.com/)
+  [![image](https://user-images.githubusercontent.com/59227793/165592749-b4567c70-44a4-44c8-b911-d303f069cf44.png)](https://www.figma.com/)
+  [![retool (2)](https://user-images.githubusercontent.com/59227793/165596150-2554eca4-2bb7-48ef-9f13-c2e8605453fe.jpg)](https://retool.com/)
+  [![image](https://user-images.githubusercontent.com/59227793/165596583-f8df332d-3b79-4711-b717-90c9c7e2c1f4.png)](https://www.airtable.com/)
+  [![image](https://user-images.githubusercontent.com/59227793/165596742-69ad728b-26f6-4947-9725-8c98fd58e41c.png)](https://slack.com/)
   
 </details>
 
