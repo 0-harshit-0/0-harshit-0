@@ -50,7 +50,7 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
 
 <details>
   
-  <summary>Projects</summary>
+  <summary>Personal Projects</summary>
   
   :card_index_dividers: [Canvas Utility](https://github.com/0-harshit-0/Utility-HTML5Canvas) JavaScript library that provides various data structure and shape functions for creating art and animations using HTML5 Canvas API.<br />
   :performing_arts: [Cryptic](http://0harshit0.pythonanywhere.com/) is an _image steganography_ tool for encoding and decoding text/files in an Image.<br />
