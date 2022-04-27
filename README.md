@@ -6,8 +6,8 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
 **I have created:**<br />
 :globe_with_meridians: Web applications (games, tools, etc.)<br />
 :package: Browser extensions<br />
-:diamond_shape_with_a_dot_inside: Web animation using Canvas API, SVGs, and ThreeJS
-:memo: Python applications using sockets, pillow and other lib.
+:diamond_shape_with_a_dot_inside: Web animation using Canvas API, SVGs, and ThreeJS<br />
+:memo: Python applications using sockets, pillow and other lib.<br />
 :chains: Dapps using solidity, web3.js, remix, etc.
 
 <hr />
@@ -36,7 +36,7 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
   
   <summary>Tools</summary>
   
-  :card_index_dividers: [Figma](https://www.figma.com/) <br />
+  ![figma-logo-E4E21D3AEA-seeklogo com](https://user-images.githubusercontent.com/59227793/165592368-6bcd46fd-e474-4e2f-b58d-9721db66ad0f.png) [Figma](https://www.figma.com/) <br />
   :performing_arts: [Retool](https://retool.com/) <br />
   :world_map: [Airtable](https://www.airtable.com/) <br />
   :space_invader: [Slack](https://slack.com/)
@@ -49,11 +49,14 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
 </details>
 
 <details>
+  
   <summary>Projects</summary>
+  
   :card_index_dividers: [Canvas Utility](https://github.com/0-harshit-0/Utility-HTML5Canvas) JavaScript library that provides various data structure and shape functions for creating art and animations using HTML5 Canvas API.<br />
   :performing_arts: [Cryptic](http://0harshit0.pythonanywhere.com/) is an _image steganography_ tool for encoding and decoding text/files in an Image.<br />
   :world_map: [Google Map Scraper](https://addons.mozilla.org/en-US/firefox/addon/google-map-leads-scraper/) is a scraping browser extension. It is used to scrape google map info.<br />
   :space_invader: [SpaceWars](https://spacewars.glitch.me/) is an online, free-to-play<!--, multiplayer--> game, Created using HTML, CSS, JS, Canvas API.<!--, Node, Express, and Socket.io.-->
+  
 </details>
 
 <a target="_blank" href="https://icons8.com/icon/HKdmFbFm7xQV/upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely">Upwork a global freelancing platform where professionals connect and collaborate remotely</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
