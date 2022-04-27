@@ -1,5 +1,5 @@
 ### hey there :love_you_gesture:
-I'm a _front-end web developer_ and a _part-time freelancer_.
+I'm a _developer_ and a _part-time freelancer_.
 
 <hr />
 
