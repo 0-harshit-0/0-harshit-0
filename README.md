@@ -25,7 +25,7 @@ I'm a _front-end web developer_ and a _part-time freelancer_.
   <img src='https://img.shields.io/badge/-CSS-blue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-JS-yellow?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-ReactJS-rgb(0,200,200)?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-Python-amber?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/-Python-#cca834?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-NodeJS-lightBlue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-Express-rgb(0, 0, 100)?style=for-the-badge' />
   <img src='https://img.shields.io/badge/-Php-rgb(133, 142, 187)?style=for-the-badge' />
