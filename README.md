@@ -13,7 +13,7 @@ I'm a _developer_ and a _part-time freelancer_.
 <hr />
 
 **You can reach me on:**<br />
-[![icons8-linkedin-32 (1)](https://user-images.githubusercontent.com/59227793/176994621-c057edf9-0289-4b72-a279-a502b744d814.png)](https://www.linkedin.com/in/0-hs-0/)
+[![icons8-linkedin-32 (1)](https://user-images.githubusercontent.com/59227793/176994664-7005f978-39c0-4ccd-bc77-4d08dd0ac232.png)](https://www.linkedin.com/in/0-hs-0/)
 [![icons8-github-32](https://user-images.githubusercontent.com/59227793/176993868-1e0b148b-f3aa-47f8-9b16-65935af43208.png)](https://github.com/0-harshit-0)
 [![icons8-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-28](https://user-images.githubusercontent.com/59227793/148360800-cd3902ba-3e57-4803-8e20-3ff21148a21f.png)](https://www.upwork.com/freelancers/~0176e6bae15473d94f)
 
