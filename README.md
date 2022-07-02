@@ -3,7 +3,7 @@ I'm a _developer_ and a _part-time freelancer_.
 
 <hr />
 
-**I have created:**<br />
+### **I have created:**<br />
 :globe_with_meridians: Web applications (games, tools, etc.)<br />
 :package: Browser extensions<br />
 :diamond_shape_with_a_dot_inside: Web animation using Canvas API, SVGs, and ThreeJS<br />
@@ -12,7 +12,7 @@ I'm a _developer_ and a _part-time freelancer_.
 
 <hr />
 
-**You can reach me on:**<br />
+### **You can reach me on:**<br />
 [![icons8-linkedin-32 (1)](https://user-images.githubusercontent.com/59227793/176994664-7005f978-39c0-4ccd-bc77-4d08dd0ac232.png)](https://www.linkedin.com/in/0-hs-0/) 
 [![icons8-github-32](https://user-images.githubusercontent.com/59227793/176993868-1e0b148b-f3aa-47f8-9b16-65935af43208.png)](https://github.com/0-harshit-0) 
 [![icons8-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-28](https://user-images.githubusercontent.com/59227793/176995271-7276065f-2420-4229-ab9b-e344dcea5d85.png)](https://www.upwork.com/freelancers/~0176e6bae15473d94f)
