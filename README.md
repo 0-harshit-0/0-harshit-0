@@ -1,4 +1,4 @@
-### hey there :love_you_gesture:
+### Hey there :love_you_gesture:
 I'm a _developer_ and a _part-time freelancer_.
 
 <hr />
