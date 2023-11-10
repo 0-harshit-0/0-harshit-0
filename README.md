@@ -36,7 +36,7 @@ I'm a _developer_ and a _part-time freelancer_.
 <details>
   <summary>Personal Projects</summary>
   :card_index_dividers: <a href="https://github.com/0-harshit-0/Utility-HTML5Canvas">Canvas Utility</a> JavaScript library that provides various data structure and shape functions for creating art and animations using HTML5 Canvas API.<br />
-  :performing_arts: <a href="http://0harshit0.pythonanywhere.com">Cryptic</a> is an _image steganography_ tool for encoding and decoding text/files in an Image.<br />
+  :performing_arts: <a href="http://0harshit0.pythonanywhere.com">Cryptic</a> is an <i>image steganography</i>i tool for encoding and decoding text/files in an Image.<br />
   :world_map: <a href="https://addons.mozilla.org/en-US/firefox/addon/geoharvest/">Google Map Scraper</a> is a scraping browser extension. It is used to extract business information from Google maps.<br />
   :space_invader: <a href="https://spacewars.glitch.me">SpaceWars</a> is an online, free-to-play<!--, multiplayer--> game, Created using HTML, CSS, JS, Canvas API.<!--, Node, Express, and Socket.io.-->
 </details>
