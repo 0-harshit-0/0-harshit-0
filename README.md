@@ -1,5 +1,5 @@
 ### Hey there :love_you_gesture:
-I'm a _software developer_
+I'm a _Software Engineer_
 
 <hr />
 
