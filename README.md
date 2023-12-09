@@ -1,5 +1,5 @@
 ### Hey there :love_you_gesture:
-I'm a _Software Engineer_. I love making things.
+I'm a _Software Engineer_ and I love making things.
 
 <a href="https://www.linkedin.com/in/0-hs-0">LinkedIn</a>
  |
