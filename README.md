@@ -19,27 +19,17 @@ I'm a Software Engineer with ample experience in creating and deploying software
 
 <details>
   <summary>Skills</summary>
-  <img src='https://img.shields.io/badge/-JS-yellow?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-Python-rgb(0,100,202)?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-ReactJS/NextJS-rgb(0,200,200)?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-NodeJS/ExpressJS-lightBlue?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-Socket Programming-rgb(0, 0, 100)?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-Php-rgb(133, 142, 187)?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-HTML-brown?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/-CSS-blue?style=for-the-badge' />
+ 
+  <img src='https://skillicons.dev/icons?i=html,css,js,python,php,solidity,vite,react,next,tailwind,nodejs,express,flask,selenium,mongodb,firebase,aws,linux,figma,git' />
 </details>
 
 <details>
   <summary>Working Experience</summary>
-  <p>
-    :briefcase:
-    Software Engineer at Alternative-Path - 4 months
-  </p>
-  <p>
-    :briefcase:
-    I’m a Top-Rated Software Developer on <a href="https://www.upwork.com/freelancers/~0176e6bae15473d94f">Upwork</a> I have delivered 30+ small to mid-scale applications to individuals and start-ups, with a 100% job success rate. - 1.5 years
-  </p>
+  :briefcase:
+  Software Engineer at Alternative-Path - 5 months
+ 
+  :briefcase:
+  I’m a Top-Rated Software Developer on <a href="https://www.upwork.com/freelancers/~0176e6bae15473d94f">Upwork</a> I have delivered 30+ small to mid-scale applications to individuals and start-ups, with a 100% job success rate. - 2 years
 </details>
 
 <details>
