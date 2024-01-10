@@ -1,6 +1,6 @@
 ### Hey there :love_you_gesture:
 
-I'm a Software Engineer with ample experience in creating and deploying software from the scratch. I have a solid grasp of JavaScript, HTML5 Canvas, Python, PHP, HTML, CSS and a bunch of cool stuff like Tailwind, Node/Express.js, Flask, AWS, OpenAI, Browser Extensions, PWAs, and Web Sockets. I'm your go-to person when you need to bring your innovations to life.
+I'm a Software Engineer with ample experience in creating and deploying software from the scratch. I have a solid grasp on Front-end as well as Back-end technologies. I'm your go-to person when you need to bring your innovations to life.
 
 <a href="https://www.linkedin.com/in/0-hs-0">LinkedIn</a>
  |
