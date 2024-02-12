@@ -1,6 +1,6 @@
 ### Hey there :love_you_gesture:
 
-I'm a Software Engineer with ample experience in creating and deploying software from the scratch. I have a solid grasp on Front-end as well as Back-end technologies. I'm your go-to person when you need to bring your innovations to life.
+I'm a Software Engineer with ample experience in creating and deploying software from scratch. I have a solid grasp of Front-end as well as Back-end technologies.
 
 <a href="https://www.linkedin.com/in/0-hs-0">LinkedIn</a>
  |
@@ -13,7 +13,7 @@ I'm a Software Engineer with ample experience in creating and deploying software
   :globe_with_meridians: Web applications (games, tools, etc.)<br />
   :package: Browser extensions<br />
   :diamond_shape_with_a_dot_inside: Web animation using Canvas API, SVGs, and ThreeJS<br />
-  :memo: Python applications using sockets, pillow and other libraries<br />
+  :memo: Python applications using sockets, pillow, and other libraries<br />
   :chains: Dapps using solidity, web3.js, remix, etc.
 </details>
 
