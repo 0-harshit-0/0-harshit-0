@@ -1,6 +1,6 @@
 ### Hey there :love_you_gesture:
 
-I'm a Software Engineer with ample experience in creating and deploying software from scratch. I have a solid grasp of Front-end as well as Back-end technologies.
+I'm a Software Engineer with 3+ years of experience in creating and deploying software from scratch. I have a solid grasp of Front-end as well as Back-end technologies.
 
 <a href="https://www.linkedin.com/in/0-hs-0">LinkedIn</a>
  |
