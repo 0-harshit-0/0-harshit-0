@@ -1,6 +1,6 @@
 ### Hey there :love_you_gesture:
 
-I'm a Software Engineer with 3+ years of experience in creating and deploying software from scratch. I have a solid grasp of Front-end as well as Back-end technologies.
+I'm a Software Engineer with 3+ years of experience creating and deploying software from scratch. I have a solid grasp of Front-end as well as Back-end technologies.
 
 <a href="https://www.linkedin.com/in/0-hs-0">LinkedIn</a>
  |
@@ -20,7 +20,7 @@ I'm a Software Engineer with 3+ years of experience in creating and deploying so
 <details>
   <summary>Skills</summary>
  
-  <img src='https://skillicons.dev/icons?i=html,css,js,python,php,solidity,vite,react,next,tailwind,nodejs,express,flask,selenium,cypress,mongodb,firebase,aws,linux,figma,git' />
+  <img src='https://skillicons.dev/icons?i=html,css,js,python,php,solidity,vite,react,next,tailwind,nodejs,express,flask,selenium,cypress,mongodb,firebase,aws,linux,figma,git,paypal' />
 </details>
 
 <details>
