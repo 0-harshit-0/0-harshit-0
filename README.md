@@ -20,7 +20,7 @@ I'm a Full-Stack Developer with 3+ years of experience creating and deploying so
 <details>
   <summary>Skills</summary>
  
-  <img src='https://skillicons.dev/icons?i=html,css,js,python,php,wordpress,solidity,vite,react,next,tailwind,nodejs,express,flask,fastapi,selenium,cypress,mongodb,firebase,aws,linux,figma,git,webpack' />
+  <img src='https://skillicons.dev/icons?i=html,css,js,python,php,wordpress,solidity,vite,react,next,tailwind,nodejs,express,flask,fastapi,selenium,cypress,mongodb,firebase,aws,docker,linux,figma,git,webpack' />
 </details>
 
 <details>
