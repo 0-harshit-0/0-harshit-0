@@ -27,13 +27,16 @@ I'm a Full-Stack Developer with 3+ years of experience creating and deploying so
   <summary>Working Experience</summary>
  
   :briefcase:
-  Lead Full-Stack developer at Trekkr - current(5 months)
+  Lead Full-Stack developer at Trekkr
+
+  :briefcase:
+  Part-time front-end developer at Etherwise
  
   :briefcase:
-  Software Engineer at Alternative-Path - 5 months
+  Software Engineer at Alternative-Path
   
   :briefcase:
-  I’m a Top-Rated Software Developer on <a href="https://www.upwork.com/freelancers/~0176e6bae15473d94f">Upwork</a> I have delivered 30+ small to mid-scale applications to individuals and start-ups, with a 100% job success rate. - 2 years
+  I’m a Top-Rated Software Developer on <a href="https://www.upwork.com/freelancers/~0176e6bae15473d94f">Upwork</a> I have delivered 30+ small to mid-scale applications to individuals and start-ups, with a 100% job success rate.
 </details>
 
 <details>
