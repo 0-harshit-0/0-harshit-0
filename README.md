@@ -1,6 +1,6 @@
 ### Hey :love_you_gesture:
 
-I'm a Full-Stack Engineer with 3+ years of experience creating and deploying software from scratch.
+I'm a Full-Stack Engineer with 4+ years of experience creating and deploying software from scratch.
 
 <a href="https://www.linkedin.com/in/0-hs-0">LinkedIn</a>
  |
