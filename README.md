@@ -12,4 +12,4 @@ I'm a Full-Stack Engineer with 4+ years of experience creating and deploying sof
 <!--- :chains: Dapps using solidity, web3.js, remix, etc.-->
 
 ### Skills
-![Skills](https://skillicons.dev/icons?i=html,css,js,python,php,wordpress,vite,react,next,tailwind,nodejs,express,flask,fastapi,selenium,cypress,mongodb,firebase,aws,docker,linux,figma,git,discord,webpack,ts,postgres)
+![Skills](https://skillicons.dev/icons?i=html,css,js,python,php,wordpress,vite,react,next,tailwind,nodejs,express,flask,fastapi,selenium,cypress,mongodb,firebase,aws,docker,linux,figma,git,discord,webpack,ts,postgres,jest,puppeteer)
