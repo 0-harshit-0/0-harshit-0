@@ -1,7 +1,7 @@
 <details>
   <summary>Go to</summary>
   <ul>
-    <li><a href=https://github.com/0-harshit-0/0-harshit-0/blob/main/blogs/nav.md">Blogs</a></li>
+    <li><a href="https://github.com/0-harshit-0/0-harshit-0/blob/main/blogs/nav.md">Blogs</a></li>
     <li><a href="/blogs/html.md">HTML</a></li>
   </ul>
 </details>
