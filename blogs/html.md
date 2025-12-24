@@ -9,7 +9,7 @@
 
 # HTML
 
-- Let’s start with the full form: **HyperText Markup Language**.
+- Let’s start with the full form 😜: **HyperText Markup Language**.
 - HTML is used to provide structure to a web page.
 - This structure can be used to make a visually appealing and accessible site.
 - This structure can also be used by machines/servers/algorithms to understand a site, because they can’t _“see”_ or _“use”_ a page the way humans do they infer meaning from structure (HTML mostly) and presentation cues (CSS).
