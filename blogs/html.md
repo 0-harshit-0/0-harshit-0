@@ -26,7 +26,7 @@
     - `<div>`   A generic block container used to group content (often for layout/styling).
     - `<h1>`   A top-level heading.
     - `<p>`   A paragraph of text.
-- Check out https://www.w3schools.com/TAGS/default.asp for an extensive list of tags.
+> Check out https://www.w3schools.com/TAGS/default.asp for an extensive list of tags.
 - Although it’s possible to reset styles and build a whole page using just one tag (like `<div>`), machines can’t reliably understand the meaning of different parts of the page if everything is the same tag. For example, a common “everything is a div” structure looks like this:
 
 ```html
@@ -54,7 +54,10 @@
 <div>footer</div>
 ```
 
-Now, this can look fine and you can style it, add animations, etc., but the machine sees only one thing everywhere (i.e., `<div>`). It will try to infer structure using other signals, but not having meaningful tags can lead to issues.
+Now, this can look fine, and you can style it, add animations, etc., but the machine sees only one thing everywhere (i.e., `<div>`). It will try to infer structure using other signals, but not having meaningful tags can lead to issues.
+
+> [!WARNING]  
+> The blog is not completed yet, check back later for more updates
 
 
 ## Other reading material
