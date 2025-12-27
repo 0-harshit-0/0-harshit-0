@@ -10,8 +10,8 @@
 ┌───────────────┐  ┌───────────────────────────────────────────┐
 │ NAV           │  │ Latest posts                              │
 ├───────────────┤  │ - <a href="/blogs/html.md">HTML</a>                                    │
-│  <a href="https://github.com/0-harshit-0/">About</a>        │  │ - ...                                     │
-│  <a href="/blogs/html.md">HTML</a>         │  └───────────────────────────────────────────┘
+│  <a href="/blogs/html.md">HTML</a>         │  │ - ...                                     │
+│  <a href="https://github.com/0-harshit-0/">About</a>        │  └───────────────────────────────────────────┘
 │               │
 │               │
 └───────────────┘
