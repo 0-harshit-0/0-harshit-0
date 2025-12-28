@@ -57,8 +57,10 @@
 Now, this can look fine, and you can style it, add animations, etc., but the machine sees only one thing everywhere (i.e., `<div>`). It will try to infer structure using other signals, but not having meaningful tags can lead to issues.
 
 > [!WARNING]  
-> The blog is not completed yet, check back later for more updates
+> The blog is not completed yet. Check back later for more updates
 
+> [!NOTE]
+> Recommended source for learning: https://web.dev/html.
 
 ## Other reading material
 
