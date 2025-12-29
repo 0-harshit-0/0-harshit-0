@@ -10,9 +10,9 @@
 ┌───────────────┐  ┌───────────────────────────────────────────┐
 │ NAV           │  │ Latest posts                              │
 ├───────────────┤  │ - <a href="/blogs/html.md">HTML</a>                                    │
-│  <a href="/blogs/html.md">HTML</a>         │  │ - ...                                     │
+│  <a href="/blogs/html.md">HTML</a>         │  │ - <a href="/blogs/pyqt.md">PyQt</a>                                    │
+│  <a href="/blogs/pyqt.md">PyQt</a>         │  |                                           |
 │  <a href="https://github.com/0-harshit-0/">About</a>        │  └───────────────────────────────────────────┘
-│               │
 │               │
 └───────────────┘
 </pre>
