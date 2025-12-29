@@ -1,8 +1,8 @@
 <pre class="ascii">
 ┌───────────────────────────────────┐ ┌────────────────────────────────────┐ ┌──────────────────────────────────────┐
 |                      _    __      | | Latest posts                       | | NAV                                  |
-|    _ __  _   _  __ _| |_ / /_     | │ - <a href="/blogs/html.md">PYQT6</a>                            │ │ - <a href="/blogs/pyqt6.md">HTML</a>                               │
-|   | '_ \| | | |/ _` | __| '_ \    | │ - <a href="/blogs/html.md">HTML</a>                             │ │ - <a href="/blogs/html.md">PYQT6</a>                              │
+|    _ __  _   _  __ _| |_ / /_     | │ - <a href="/blogs/pyqt.md">PyQt</a>                            │ │ - <a href="/blogs/pyqt6.md">HTML</a>                               │
+|   | '_ \| | | |/ _` | __| '_ \    | │ - <a href="/blogs/html.md">HTML</a>                             │ │ - <a href="/blogs/pyqt.md">PyQt</a>                              │
 |   | |_) | |_| | (_| | |_| (_) |   | │ - ...                              │ │ - <a href="https://github.com/0-harshit-0/">About</a>                              │
 |   | .__/ \__, |\__, |\__|\___/    | │                                    │ │ - <a href="/blogs/nav.md">Nav</a>                                │
 |   |_|    |___/    |_|             | │                                    │ │                                      │
@@ -11,9 +11,9 @@
 
 
 - [Skip to learning resources](#more-reading-material).
-- PyQT library serves as a bridge for C++ Qt framework.
+- The PyQT library serves as a bridge for C++ Qt framework.
 - You can use it to create feature-rich cross-platform GUI (I've only tried on Windows 😜). Useful when CLI is not enough.
-- Python, also have tkinter which relies on TK GUI toolkit. I loved working with PyQt more than tkinter, because it offers useful toolings and full-featured widgets/layouts, so there's less boilerplate to manage.
+- Python also has tkinter, which relies on the TK GUI toolkit. I loved working with PyQt more than tkinter, because it offers useful toolings and full-featured widgets/layouts, so there's less boilerplate to manage.
 
 
 ## Widgets
