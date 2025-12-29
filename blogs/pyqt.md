@@ -1,8 +1,8 @@
 <pre class="ascii">
 ┌───────────────────────────────────┐ ┌────────────────────────────────────┐ ┌──────────────────────────────────────┐
 |                      _    __      | | Latest posts                       | | NAV                                  |
-|    _ __  _   _  __ _| |_ / /_     | │ - <a href="/blogs/pyqt.md">PyQt</a>                            │ │ - <a href="/blogs/pyqt6.md">HTML</a>                               │
-|   | '_ \| | | |/ _` | __| '_ \    | │ - <a href="/blogs/html.md">HTML</a>                             │ │ - <a href="/blogs/pyqt.md">PyQt</a>                              │
+|    _ __  _   _  __ _| |_ / /_     | │ - <a href="/blogs/pyqt.md">PyQt</a>                             │ │ - <a href="/blogs/pyqt6.md">HTML</a>                               │
+|   | '_ \| | | |/ _` | __| '_ \    | │ - <a href="/blogs/html.md">HTML</a>                             │ │ - <a href="/blogs/pyqt.md">PyQt</a>                               │
 |   | |_) | |_| | (_| | |_| (_) |   | │ - ...                              │ │ - <a href="https://github.com/0-harshit-0/">About</a>                              │
 |   | .__/ \__, |\__, |\__|\___/    | │                                    │ │ - <a href="/blogs/nav.md">Nav</a>                                │
 |   |_|    |___/    |_|             | │                                    │ │                                      │
