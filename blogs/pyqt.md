@@ -100,6 +100,11 @@ if __name__ == "__main__":
 <img width="648" height="342" alt="Screenshot 2025-12-29 222459" src="https://github.com/user-attachments/assets/7c7c462e-2d98-4a7a-bba9-f24e35b48deb" />
 
 
+## Signals
+
+- Signals are like events being fired. For example, when a button is clicked, a right-click, etc.
+- Many widgets come with predefined widgets, but you can create more custom signals using pyqtSignal.
+- They are initialized like this: `selectSignal = pyqtSignal(object)`. Here _object_ is the type that is going to be emitted.
 
 
 ## More reading material
