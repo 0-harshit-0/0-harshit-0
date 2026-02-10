@@ -1,4 +1,4 @@
-### Hey :love_you_gesture:
+### Hey [<img src="https://raw.githubusercontent.com/0-harshit-0/0-harshit-0/refs/heads/main/assets/heart.svg" width="21" height="21" alt="git-together ♡" />](https://github.com/0-harshit-0/git-together)
 
 I'm a Full-Stack Engineer with 4+ years of experience creating and deploying software from scratch.
 
@@ -13,3 +13,7 @@ I'm a Full-Stack Engineer with 4+ years of experience creating and deploying sof
 
 ### Skills
 ![Skills](https://skillicons.dev/icons?i=html,css,js,python,php,wordpress,vite,react,next,tailwind,nodejs,express,flask,fastapi,selenium,cypress,mongodb,firebase,aws,docker,linux,figma,git,discord,webpack,ts,postgres,jest,redis,mysql)
+
+
+
+
