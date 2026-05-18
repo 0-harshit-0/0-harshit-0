@@ -1,7 +1,7 @@
 ### Hey [<img src="https://raw.githubusercontent.com/0-harshit-0/0-harshit-0/refs/heads/main/assets/heart.svg" width="21" height="21" alt="git-together" />](https://github.com/0-harshit-0/git-together)
 
 I'm a Full-Stack Engineer with 4+ years of experience creating and deploying software from scratch.
-<img src="https://raw.githubusercontent.com/0-harshit-0/0-harshit-0/refs/heads/main/assets/t.svg" width="21" height="21" alt="test" />
+![https://raw.githubusercontent.com/0-harshit-0/0-harshit-0/refs/heads/main/assets/t.svg](count)
 
 [LinkedIn](https://www.linkedin.com/in/0-hs-0) - [Upwork](https://www.upwork.com/freelancers/~0176e6bae15473d94f) - [HackerRank](https://www.hackerrank.com/profile/0_harshit_0) - [Blog](https://github.com/0-harshit-0/0-harshit-0/blob/main/blogs/nav.md)
 
