@@ -18,12 +18,12 @@
 │ PROFILES                                         *   ~   *   │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [GitHub]      <a href="https://github.com/0-harshit-0">github.com/0-harshit-0</a>                        │
-│  [HackerRank]  <a href="https://hackerrank.com/profile/0-harshit-0">hackerrank.com/profile/0-harshit-0</a>            │
-│  [Upwork]      <a href="https://www.upwork.com/freelancers/~YOUR_ID">upwork.com/freelancers/~YOUR_ID</a>               │
-│  [LinkedIn]    <a href="https://linkedin.com/in/0-harshit-0">linkedin.com/in/0-harshit-0</a>                   │
-│  [Discord]     <a href="https://discord.com/users/YOUR_DISCORD_ID">discord.com/users/YOUR_DISCORD_ID</a>             │
-│  [Steam]     <a href="https://discord.com/users/YOUR_DISCORD_ID">discord.com/users/YOUR_DISCORD_ID</a>               │
+│  [GitHub]      <a href="https://github.com/0-harshit-0">/0-harshit-0</a>                                  │
+│  [HackerRank]  <a href="https://www.hackerrank.com/profile/0_harshit_0">/0_harshit_0</a>                                  │
+│  [Upwork]      <a href="https://www.upwork.com/freelancers/~0176e6bae15473d94f">/harshits</a>                                     │
+│  [LinkedIn]    <a href="https://www.linkedin.com/in/0-hs-0/">/in/0-hs-0</a>                                    │
+│  [Discord]     <a href="https://discord.gg/ZQU8J8R8Tt">/PsychoRipper</a>                                 │
+│  [Steam]     <a href="https://steamcommunity.com/id/psychoripp3r/">/psychoripp3r</a>                                   │
 │                                                              │
 │        _                      .                      _       │
 │   _   ( )   _           .---.   .---.           _   ( )   _  │
