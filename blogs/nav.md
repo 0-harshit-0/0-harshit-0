@@ -15,9 +15,9 @@
 ┌─────────────────────┐  ┌─────────────────────────────────────┐
 │ NAV                 │  │ Latest posts                        │
 ├─────────────────────┤  │ - <a href="/games.md">Games I play</a>                      │
-│  <a href="/about.md">About me</a>           │  │                                     │
-│  <a href="/profiles.md">My other profiles</a>  │  │                                     │
-│  <a href="/games.md">Games I play</a>       │  └─────────────────────────────────────┘
+│  <a href="/blogs/about.md">About me</a>           │  │                                     │
+│  <a href="/blogs/profiles.md">My other profiles</a>  │  │                                     │
+│  <a href="/blogs/games.md">Games I play</a>       │  └─────────────────────────────────────┘
 │                     │
 └─────────────────────┘
 ┌──────────────────────────────────────────────────────────────┐
